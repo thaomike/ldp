@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ldp/static/css/main.8659d79b.chunk.css",
+    "main.js": "/ldp/static/js/main.db030737.chunk.js",
+    "main.js.map": "/ldp/static/js/main.db030737.chunk.js.map",
+    "runtime-main.js": "/ldp/static/js/runtime-main.bab75940.js",
+    "runtime-main.js.map": "/ldp/static/js/runtime-main.bab75940.js.map",
+    "static/css/2.2ce0d9b2.chunk.css": "/ldp/static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.2b70f7d5.chunk.js": "/ldp/static/js/2.2b70f7d5.chunk.js",
+    "static/js/2.2b70f7d5.chunk.js.map": "/ldp/static/js/2.2b70f7d5.chunk.js.map",
+    "static/js/3.5a199a55.chunk.js": "/ldp/static/js/3.5a199a55.chunk.js",
+    "static/js/3.5a199a55.chunk.js.map": "/ldp/static/js/3.5a199a55.chunk.js.map",
+    "index.html": "/ldp/index.html",
+    "precache-manifest.c68993e8dbaf1b9080229ac0839d565b.js": "/ldp/precache-manifest.c68993e8dbaf1b9080229ac0839d565b.js",
+    "service-worker.js": "/ldp/service-worker.js",
+    "static/css/2.2ce0d9b2.chunk.css.map": "/ldp/static/css/2.2ce0d9b2.chunk.css.map",
+    "static/css/main.8659d79b.chunk.css.map": "/ldp/static/css/main.8659d79b.chunk.css.map",
+    "static/js/2.2b70f7d5.chunk.js.LICENSE.txt": "/ldp/static/js/2.2b70f7d5.chunk.js.LICENSE.txt",
+    "static/media/ProPTIT.png": "/ldp/static/media/ProPTIT.a5ae8609.png",
+    "static/media/Tournament.png": "/ldp/static/media/Tournament.62744837.png",
+    "static/media/clb.JPG": "/ldp/static/media/clb.36490281.JPG",
+    "static/media/diamond.png": "/ldp/static/media/diamond.29ac3491.png",
+    "static/media/game.jpg": "/ldp/static/media/game.5586bb3e.jpg",
+    "static/media/gold.png": "/ldp/static/media/gold.7a00e6d9.png",
+    "static/media/huong.jpg": "/ldp/static/media/huong.8144ca79.jpg",
+    "static/media/introD17.jpg": "/ldp/static/media/introD17.86fcc600.jpg",
+    "static/media/introD18.jpg": "/ldp/static/media/introD18.416d36a1.jpg",
+    "static/media/linh.jpg": "/ldp/static/media/linh.83c8bc53.jpg",
+    "static/media/silver.png": "/ldp/static/media/silver.7b371907.png",
+    "static/media/sinhNhats2b.jpg": "/ldp/static/media/sinhNhats2b.3f889a5f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bab75940.js",
+    "static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.2b70f7d5.chunk.js",
+    "static/css/main.8659d79b.chunk.css",
+    "static/js/main.db030737.chunk.js"
+  ]
+}
